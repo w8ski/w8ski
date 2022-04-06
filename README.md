@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [<img src="https://user-images.githubusercontent.com/13999522/161944436-b17a7825-e332-4b36-bdf4-86abd7f1088d.svg" width="40">](https://www.typescriptlang.org/)
 [<img src="https://user-images.githubusercontent.com/13999522/161944528-db35a3fb-7d1a-42ae-bdf2-5230f2273c0d.svg" width="40">](https://reactjs.org/)
 [<img src="https://user-images.githubusercontent.com/13999522/161944537-d7d8a1ee-9e73-4a3c-bb9c-0ba50d8fcbf3.svg" width="40">](https://redux.js.org/)
+[<img src="https://user-images.githubusercontent.com/13999522/161952612-c4a63c6b-853a-4401-919c-74780ce4698f.png" width="40">](https://nextjs.org/)
 [<img src="https://user-images.githubusercontent.com/13999522/161944553-cf696836-6589-458a-8689-ed558f8f6c83.svg" width="40">](https://git-scm.com/)
 [<img src="https://user-images.githubusercontent.com/13999522/161944575-7d9819a9-aa30-4091-a7d8-0aa9e558ec5d.svg" width="40">](https://www.figma.com/)
 
