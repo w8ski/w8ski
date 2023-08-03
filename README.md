@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=w8ski&color=green)
 
 - 🔭 I’m currently working on [Heycar](https://heycar.co.uk) and side projects
-- 🌱 I’m currently learning more advanced Accessibility & SEO
+- 🌱 I’m currently learning Next13 and looking for the most optimised way to use Client/Server components
 - 💬 Ask me about anything
 
 ### Connect with me:  
